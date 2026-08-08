@@ -152,3 +152,7 @@ You see what fate gave you.
 Then you have two days to turn that mess into the best team you can.
 
 **Adapt. Build. Fight.**
+
+## Contact
+
+X: @volt3labs - Axie Sink Collective Discord server : https://discord.com/invite/3teK2AAdNt
