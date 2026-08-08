@@ -2,7 +2,7 @@
 
 The Horizon Scrumble Cup is an Axie Origins tournament where you don't enter with a finished team.
 
-You enter with **3 eggs**.
+You enter with **3 axie eggs**.
 
 Two days before the tournament, the eggs will be hatch and we will cover the  live. Whatever comes out is what you have to work with.
 
