@@ -4,7 +4,7 @@ The Horizon Cup is an Axie Origins tournament where you don't enter with a finis
 
 You enter with **3 eggs**.
 
-Two days before the tournament, the eggs hatch live. Whatever comes out is what you have to work with.
+Two days before the tournament, the eggs will be hatch and we will cover the  live. Whatever comes out is what you have to work with.
 
 From there, every player has to figure out the best possible build, runes, charms and strategy for their three new Axies.
 
@@ -53,17 +53,28 @@ Lose the series and you're out.
 
 ## Event Flow
 
+The goal is to create a story around the tournament and progressively build attention toward the final stages.
+
+### Main Platform
+
+The main tournament broadcast will be hosted by @Gunlockeaxie on the platform he chose and I (@Volt3labs) will join him. Other streamers/host are welcome.
+
+Discord remains the tournament HQ for players, match organization, results and announcements.
+
+Clips and highlights can also be shared on **X / Axie Infinity Discord** to bring people toward the main stream.
+
+
 ### D-2 — Hatch & Reveal
 
 This is the real start of the Horizon Cup.
 
-The registered eggs are **hatched and revealed on stream**.
+The registered eggs are **hatched by players and we cover it on stream**.
 
 Nobody knows exactly what team they are getting before the reveal.
 
 Once the Axies are out, players have two days to study them, test builds and figure out how to make the best team possible with what they got.
 
-The stream is also a chance to introduce the players, react to the best and weirdest hatches, and start building stories before the tournament.
+The stream is also a chance to introduce the players, react to the best and weirdest hatches, and start building stories before the tournament. 
 
 ### D1 — Group Stage
 
@@ -100,7 +111,7 @@ At that point, viewers already know the players, their Axies and the builds they
 
 ## Discord Organization
 
-Discord is the tournament HQ.
+Axie Sink Collective Discord is the tournament HQ.
 
 It is used for:
 
