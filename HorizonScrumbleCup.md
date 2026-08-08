@@ -1,6 +1,6 @@
 # Horizon 'Scrumble' Cup
 
-The Horizon Scrumble Cup is an Axie Origins tournament where you don't enter with a finished team. It is organized by the "Axie Sink Collective" and not affiliated with or sponsored by Sky Mavis.
+The Horizon Scrumble Cup is an Axie Origins tournament where you don't enter with a finished team. It is organized by the "Axie Sink Collective" and not affiliated with or sponsored by Official Axie Infinity team Sky Mavis.
 
 You enter with **3 axie eggs**.
 
