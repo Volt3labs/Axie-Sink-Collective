@@ -15,7 +15,7 @@ From there, every player has to figure out the best possible build, runes, charm
 - Each player registers **3 Axie eggs**.
 - The 3 eggs become the player's tournament roster.
 - Eggs are hatched/revealed during the official **D-2 stream**.
-- No swapping Axies after the reveal.
+- No swapping Axies after the reveal. No evolution.
 - Players can use available **runes and charms** to create the best build possible from what they hatched.
 - Standard Axie Origins competitive rules apply.
 - Tournament organization and communication happen through **Discord**.
