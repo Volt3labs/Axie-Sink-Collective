@@ -57,7 +57,7 @@ The goal is to create a story around the tournament and progressively build atte
 
 ### Main Platform
 
-The main tournament broadcast will be hosted by @Gunlockeaxie on the platform he chose and I (@Volt3labs) will join him. Other streamers/host are welcome.
+The main tournament broadcast will be hosted by @Gunlockeaxie on the platform he chose and I (@Volt3labs) will join him. Other streamers/host/content creators are welcome.
 
 Discord remains the tournament HQ for players, match organization, results and announcements.
 
