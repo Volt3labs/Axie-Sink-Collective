@@ -1,6 +1,6 @@
-# Horizon Cup
+# Horizon 'Scrumble' Cup
 
-The Horizon Cup is an Axie Origins tournament where you don't enter with a finished team.
+The Horizon Scrumble Cup is an Axie Origins tournament where you don't enter with a finished team.
 
 You enter with **3 eggs**.
 
