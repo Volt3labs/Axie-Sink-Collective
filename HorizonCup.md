@@ -10,6 +10,8 @@ From there, every player has to figure out the best possible build, runes, charm
 
 ## Core Rules
 
+- Minimum **16 players** required for the Horizon Cup to run.
+- Entry costs **3 Release Tickets** per player.
 - Each player registers **3 Axie eggs**.
 - The 3 eggs become the player's tournament roster.
 - Eggs are hatched/revealed during the official **D-2 stream**.
